@@ -1,0 +1,34 @@
+header {
+	margin: 0 auto;
+	width: max(0, 0);
+	height: 50px;
+	background-color: skyblue;
+}
+
+nav {
+	float: left;
+	width: 300px;
+	height: 25px;
+	background-color: darkred;
+}
+
+aside {
+	width: 20%;
+	height: 300px;
+	background-color: darkgreen;
+	float: right;
+}
+
+main {
+	width: 80%;
+	height: 300px;
+	background-color: lightgreen;
+	float: right;
+}
+
+footer {
+	width: 100%;
+	height: 30px;
+	background-color: purple;
+	float: left;
+}
